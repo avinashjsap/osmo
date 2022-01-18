@@ -1,4 +1,4 @@
-# osmo
+# Live Image Server
 
 Steps to run the Live image server
 
