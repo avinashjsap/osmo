@@ -3,7 +3,7 @@
 Steps to run the Live image server
 
 1. Initialize with `npm install`
-2. Set the path to the directory containing images in the `.env` file
+2. Set the path to the directory containing images in the `.env` file (The images folder has the set of sample images)
 3. From the project root, run the following command `node index.js`
 
    However, if you want to enable hot reloading on server, type in `npm run devStart`
